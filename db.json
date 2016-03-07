@@ -1,0 +1,12 @@
+{
+  "billets": [
+    {
+      "idBillet": "1",
+      "titre": "MUSE",
+      "date": "10/04/2016",
+      "lieu": "Centre Bell,Montréal",
+      "imgURL": "http://romainbulot.com/AlbumMuse.png",
+      "qrURL": "http://romainbulot.com/QRCodeMuse.png"
+    }
+  ]
+}
